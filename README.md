@@ -1,6 +1,6 @@
 ## Hi there :hand:
 
-I am a passionate backend developer in building robust web applications with PHP and Laravel
+I am a passionate backend developer in building robust web applications with PHP and Laravel.
 
 - 🔭 I’m currently working on [Veterinary app](https://d-rodas.github.io/projects/)
 
