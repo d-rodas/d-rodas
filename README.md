@@ -1,4 +1,4 @@
-## 👋 Hola, soy Diego
+### 👋 Hola, soy Diego
 
 Soy un **desarrollador web** especializado en la creación de aplicaciones robustas con **PHP** y **Laravel**.  
 Me apasiona construir soluciones eficientes y escalables, combinando un backend sólido con interfaces modernas y fluidas.
@@ -15,9 +15,13 @@ Me apasiona construir soluciones eficientes y escalables, combinando un backend 
 - [**Aplicación web para la gestión de clínicas veterinarias**](https://d-rodas.github.io/projects/)  
   Plataforma moderna para clínicas veterinarias que buscan **automatizar procesos**, **mejorar la eficiencia** y **centralizar operaciones**.
 
-## 🌱 Aprendiendo actualmente
+### 🌱 Aprendiendo actualmente
 - Mejores prácticas con **Laravel**. 
 - **Vue.js** Composition Api.
 
-## 📫 Cómo contactarme
+### 📫 Cómo contactarme
 📧 [LinkedIn](https://www.linkedin.com/in/drodas)
+
+### ✨ Inspiración
+> “Si puedes imaginarlo, puedes programarlo.”  
+> — *Alejandro Taboada Sánchez*
