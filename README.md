@@ -1,8 +1,23 @@
-### 👋 Hola, soy Diego.
+## 👋 Hola, soy Diego
 
-Soy un desarrollador web especializado en la creación de aplicaciones robustas con PHP y el framework Laravel. Domino tecnologías como HTML5, CSS3, JavaScript y utilizo frameworks modernos como Bootstrap, Tailwind CSS, Livewire y Vue.js para crear interfaces dinámicas y eficientes.
+Soy un **desarrollador web** especializado en la creación de aplicaciones robustas con **PHP** y **Laravel**.  
+Me apasiona construir soluciones eficientes y escalables, combinando un backend sólido con interfaces modernas y fluidas.
 
-### 👷 Descubre en qué estoy trabajando actualmente
+### 🛠️ Tecnologías y Habilidades  
 
-- [Aplicación web para la gestión de clínicas veterinarias](https://d-rodas.github.io/projects/) - Esta aplicación es ideal para clínicas veterinarias que buscan automatizar sus procesos, mejorar la eficiencia y centralizar todas las operaciones en una única plataforma moderna.
+* **Desarrollo Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Livewire, Vue.js.
+* **Desarrollo Backend:** PHP, Laravel, Google Apps Script.
+* **Bases de Datos:** MySQL, SQL Server.
+* **Control de Versiones:** Git, GitHub.
 
+### 👷 ¿En qué estoy trabajando actualmente?
+
+- [**Aplicación web para la gestión de clínicas veterinarias**](https://d-rodas.github.io/projects/)  
+  Plataforma moderna para clínicas veterinarias que buscan **automatizar procesos**, **mejorar la eficiencia** y **centralizar operaciones**.
+
+## 🌱 Aprendiendo actualmente
+- Mejores prácticas con **Laravel**. 
+- **Vue.js** Composition Api.
+
+## 📫 Cómo contactarme
+📧 [LinkedIn](https://www.linkedin.com/in/drodas)
