@@ -19,9 +19,6 @@ Me apasiona construir soluciones eficientes y escalables, combinando un backend 
 - Mejores prácticas con **Laravel**. 
 - **Vue.js** Composition Api.
 
-### 📫 Cómo contactarme
-📧 [LinkedIn](https://www.linkedin.com/in/drodas)
-
 ### ✨ Inspiración
 > “Si puedes imaginarlo, puedes programarlo.”  
 > — *Alejandro Taboada Sánchez*
