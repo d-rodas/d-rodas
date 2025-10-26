@@ -1,6 +1,6 @@
 ### 👋 Hola, soy Diego
 
-Soy un **desarrollador web** especializado en la creación de aplicaciones robustas con **PHP** y **Laravel**.  
+Soy un desarrollador web especializado en la creación de aplicaciones robustas con PHP y el framework Laravel.  
 Me apasiona construir soluciones eficientes y escalables, combinando un backend sólido con interfaces modernas y fluidas.
 
 ### 🛠️ Tecnologías y Habilidades  
@@ -13,10 +13,10 @@ Me apasiona construir soluciones eficientes y escalables, combinando un backend 
 ### 👷 ¿En qué estoy trabajando actualmente?
 
 - [**Aplicación web para la gestión de clínicas veterinarias**](https://d-rodas.github.io/projects/)  
-  Plataforma moderna para clínicas veterinarias que buscan **automatizar procesos**, **mejorar la eficiencia** y **centralizar operaciones**.
+  Plataforma moderna para clínicas veterinarias que buscan automatizar procesos, mejorar la eficiencia y centralizar operaciones.
 
 ### 🌱 Aprendiendo actualmente
-- Mejores prácticas con **Laravel**. 
+- Mejores prácticas con Laravel. 
 - **Vue.js** Composition Api.
 
 ### ✨ Inspiración
