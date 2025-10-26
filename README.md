@@ -17,7 +17,7 @@ Me apasiona construir soluciones eficientes y escalables, combinando un backend 
 
 ### 🌱 Aprendiendo actualmente
 - Mejores prácticas con Laravel. 
-- **Vue.js** Composition Api.
+- Vue.js Composition Api.
 
 ### ✨ Inspiración
 > “Si puedes imaginarlo, puedes programarlo.”  
